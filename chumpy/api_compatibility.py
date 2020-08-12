@@ -529,6 +529,6 @@ def main():
 
 
 if __name__ == '__main__':
-    global which_passed
+    #global which_passed
     main()
     print(' '.join(which_passed))
